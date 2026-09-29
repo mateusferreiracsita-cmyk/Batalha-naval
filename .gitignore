@@ -1,0 +1,6 @@
+# Python
+__pycache__/
+*.pyc
+
+# Historico gerado durante o uso
+data/estatisticas.json
